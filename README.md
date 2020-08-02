@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**pymacbit/pymacbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Machine Learning freelancer, Python Programmer & Developer. I mostly work with ML and Deep Learning algorithms to solve NLP, computer vision and Data Science problems. I've also had experience with Android app and Website Development. So just feel free to talk to me about all Tech and Nerdy stuff. 
 
-Here are some ideas to get you started:
+And When it comes to offline activities, I hugely enjoy travelling, reading and exploring new Place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👨🏽‍💻 Current work in NLP and ComputerVision.
+- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 🌐 Visit my [porfolio website](https://pymacbit.github.io) for complete background and contact.
+
+To connect with me,
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](http://twitter.com/pymacbit) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pymacbit/)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pymacbit.github.io)  
+
+---
